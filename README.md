@@ -2,8 +2,7 @@
 
 # MusicPlayer
 Android music player example.
-
-<a href='https://play.google.com/store/apps/details?id=com.a1573595.musicplayer'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="100px"/></a>
+ 
 
 ### Screenshots
 <div style="dispaly:flex">
