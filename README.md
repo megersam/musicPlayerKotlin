@@ -23,8 +23,7 @@ Dark Mode.
 ### Supported Android Versions
 - Android 5.1 Lollipop(API level 21) or higher.
 
-### Prepare
-Download [example media](https://ccrma.stanford.edu/~jos/pasp/Sound_Examples.html) to your device.
+ 
 
 ### Used libraries
 1. [Material](https://material.io/)
