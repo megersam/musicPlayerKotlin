@@ -1,4 +1,4 @@
-*Read this in other languages: [English](README.md), [中文](README.zh-tw.md).*
+*Read this in other languages:*
 
 # MusicPlayer
 Android music player example.
